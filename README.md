@@ -39,3 +39,12 @@ Para executar o projeto é só abrir o arquivo index.html em seu navegador de pr
 # Autor
 
 Fabiano Basso Antonio
+
+Também trabalho como **DESENVOLVEDOR FULL STACK** freelancer, caso tenha algum projeto, essa é a hora certa de tirar ele do papel, podemos conversar, e vou apresentar a melhor solução para você.
+
+#### Meus Contatos:
+**Currículo online:** https://fabianobasso.github.io/
+<br>
+**Linkedin:** https://www.linkedin.com/in/fabiano-basso
+<br>
+**Whatsapp:** [Enviar Mensagem](https://api.whatsapp.com/send?phone=5519999979098)
